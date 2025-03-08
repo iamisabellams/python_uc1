@@ -1,0 +1,154 @@
+﻿Dia 21/02/2025
+Atividades 01, 02, 03, 04 e Desafio 02
+
+
+Atividade = Café
+
+
+Como fazer um café:
+
+
+Ferramentas:
+
+
+- Coador
+- Filtro de pape
+- Garrafa
+- Colher de sopa
+- Xícara
+- Chaleira
+
+
+Ingredientes: 
+
+
+- Café
+- Água
+- Açúcar
+
+
+Passo a passo:
+
+
+- Vá até o armário
+- Pegue o pote de café
+- Pegue o pote de açúcar
+- Pegue o coador
+- Pegue a colher de sopa
+- Vá até a torneira e coloque água na chaleira
+- Leve ao fogo
+- Acenda o fogo médio
+- Espere até a água ferver
+- Desligue o fogo
+- Espere um 30 segundos
+- Coloque o café no filtro
+- Despeje a água lentamente no pó de café
+- Aguarde a água passar pelo filtro
+- Pegue uma xícara
+- Despeje o café na xícara até encher
+- Pegue a colher de sopa
+- Coloque no pote de açúcar
+- Encha a colher
+- Despeje o açúcar da colher na xícara
+- Mexa com a propria colher até dissolver
+- Retire a colher e coloque na mesa
+
+
+Atividade: IDE
+
+
+Um IDE é um programa repleto de funcionalidades que podem ser usadas por muitos aspectos no desenvolvimento de software, que inclui ferramentas de preenchimento de código, plugins, e muitos outros recursos para facilitar o processo de desenvolvimento de software. Porém, atualmente existem diversas IDEs disponíveis no mercado, algumas desenvolvidas para linguagens de programação específicas, outros editores de código que se comportam como IDE. Vamos descobrir um pouco mais sobre isso.
+
+
+
+
+* PyCharm
+* Visual Studio Code (VS Code)
+* Spyder
+* Jupyter Notebook
+* Thonny
+
+
+
+
+Atividade : Python
+
+
+“Pesquisem sobre a história da linguagem python, quem a criou, por que foi criada e qual a sua filosofia.”
+
+
+História da linguagem de Python:
+
+
+“A história do Python começa em dezembro de 1989, quando Guido van Rossum, um programador holandês, iniciou o desenvolvimento da linguagem como um projeto de hobby. Ele estava procurando criar uma linguagem que fosse fácil de entender e que incentivasse uma sintaxe clara e legível. A primeira versão do Python, 0.9.0, foi lançada em fevereiro de 1991, e já incluía algumas das características fundamentais que definiriam a linguagem, como exceções, funções e tipos de dados modulares.”
+
+
+Filosofia da linguagem de Python:
+
+
+“O sucesso do Python deve-se em grande parte à sua filosofia de design, expressa no "Zen do Python". Este é um conjunto de princípios orientadores que enfatiza a clareza, simplicidade e facilidade de leitura do código. O "Zen do Python" oferece diretrizes como "Legibilidade conta" e "Seja explícito é melhor que ser implícito", que têm sido fundamentais para criar uma comunidade que valoriza a colaboração e o compartilhamento de código.”
+
+
+bibliografia: https://www.dio.me/articles/a-historia-do-python-JCO7UB 
+
+
+Atividade Extra : Pesquise na internet o que é a PEP 20 e qual a sua finalidade.
+
+
+Após a pesquisa, reflita e responda às seguintes perguntas:
+
+
+O que é uma PEP?
+O que é o Zen of Python?
+
+
+Além disso, cite outra PEP relevante.
+
+
+“O que é PEP 20?”
+
+
+A PEP 20, também conhecida como Zen of Python, é um conjunto de princípios que orientam o design da linguagem Python
+
+
+Bonito é melhor que feio.
+Explícito é melhor que implícito.
+Simples é melhor que complexo.
+Complexo é melhor que complicado.
+Plano é melhor que aninhado.
+Esparso é melhor que denso.
+A legibilidade conta.
+Casos especiais não são especiais o suficiente para quebrar as regras.
+Embora a praticidade supere a pureza.
+Os erros nunca devem passar silenciosamente.
+A menos que seja explicitamente silenciado.
+Diante da ambiguidade, recuse a tentação de adivinhar.
+Deveria haver uma - e de preferência apenas uma - maneira óbvia de fazer isso.
+Embora essa forma possa não ser óbvia à primeira vista, a menos que você seja holandês.
+Agora é melhor do que nunca.
+Embora nunca seja melhor do que *agora*.
+Se a implementação for difícil de explicar, é uma má ideia.
+Se a implementação for fácil de explicar, pode ser uma boa ideia.
+Namespaces são uma ótima ideia - vamos fazer mais deles!
+“O que é PEP 08?”
+
+
+O Pep8 é um conjunto de diretrizes e recomendações para escrever código Python de maneira mais clara, legível e consistente. Ele define um estilo de codificação que ajuda os desenvolvedores a produzirem um código mais organizado e de fácil compreensão. O termo “Pep8” é uma abreviação para “Python Enhancement Proposal 8”, referindo-se à proposta de melhoria para a linguagem Python.
+
+
+
+
+
+
+
+
+
+
+
+
+“O que é uma PEP?”
+
+
+PEP é a sigla para Python Enhancement Proposal, ou seja, Proposta de Enriquecimento do Python. Os PEPs são documentos que descrevem mudanças na linguagem Python, ou nas normas do mesmo. 
+“O que é o Zen of Python?”
+O Zen of Python é uma coleção de 19 aforismos que sintetizam os princípios orientadores do BDFL para o design do Python.

@@ -1,0 +1,195 @@
+﻿Programação em Python – Aluna: Isabella Medeiros
+
+
+Desafio 01 - Vagas FullStack: 
+Vaga 1: Desenvolvidor FullStack Sênior 
+Link: https://www.vagas.com.br/vagas/v2710241/desenvolvedor-iii-full-stack-sisprev 
+
+
+Conhecimentos: 
+- Git, Azure Devops, Oracle ou SQL Server, Padrões de projeto, projeto de componentes de software, ORM.
+
+
+Habilidades: 
+- Gostar de gente
+- Trabalhar em equipe
+- Vontade de aprender e de se desenvolver
+
+
+Requisitos: 
+- Lógica de programação e construção de algoritmos;
+- Orientação a objetos;
+- Domain Driven Design;
+- Testes de software;
+- Sistemas de controle de versão;
+- Técnicas e práticas de integração contínua;
+- Técnicas e práticas de entrega contínua;
+- Projeto de APIs;
+- Banco de Dados;
+
+
+Vaga 2: 
+Link: https://www.vagas.com.br/vagas/v2710909/desenvolvedor-senior-fullstack?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic 
+ 
+Conhecimentos: 
+
+
+
+
+- Graduação em Ciência da Computação, Engenharia de Software, ou área relacionada
+
+
+
+
+Habilidades: 
+- Inglês: Nível Intermediário
+
+
+Requisitos: 
+- Desenvolvimento Web Avançado
+- Arquitetura de Microserviços
+- DevSecOps e CI/CD
+- Desenvolvimento Low-Code
+- UX/UI Design
+- E-commerce B2B
+- Segurança da Informação
+- Business Intelligence para E-commerce
+- Linguagens: HTML, CSS, JavaScript, e linguagens backend como Python, Ruby, Java, .Net ou Node.js
+- Frameworks: Django, Ruby on Rails, Express.js, Laravel, Spring Boot
+- Frontend: React, Vue.js, Angular
+- Bancos de Dados: PostgreSQL, MySQL, SQL Server, MongoDB, Cassandra, Redis
+- DevOps: Jenkins, GitLab CI, GitHub Actions, ELK Stack, Prometheus, Grafana
+- APIs: RESTful, GraphQL, Swagger, Postman
+- Segurança: Fortify, Veracode, Acunetix, AppSpider, Checkmarx Interactive
+- Low-Code: OutSystems, Mendix, ou Appian
+- Ferramentas UX/UI: Figma, Sketch, Adobe XD
+- E-commerce: Plataformas B2B, APIs de e-commerce
+- Analytics: Google Analytics, Power BI
+
+
+
+
+Vaga 3:
+Link: https://br.linkedin.com/jobs/view/desenvolvedor-s%C3%AAnior-at-sicpa-am%C3%A9rica-do-sul-4157194483?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic 
+
+
+Conhecimentos: 
+- Conhecimento nas seguintes tecnologias;
+- Conhecimento em ambiente Linux, incluindo shell scripting e empacotamento de software;
+- Conhecimento em outras programações funcionais ou reativas é uma vantagem.
+
+
+
+
+Habilidades: 
+- Tecnologias de contentores (Docker);
+- Tecnologias de processamento de dados (Spark ou Hadoop);
+- Plataformas de streaming distribuído (Kafka);
+- Tecnologias de gestão de clusters (Kubernetes);
+- Base de dados relacional (PostgreSQL, Oracle);
+
+
+Requisitos: 
+- Graduação em Ciência da Computação, Engenharia ou áreas afins.
+- Inglês intermediário (B2), com capacidade de comunicar conceitos técnicos de forma eficaz para diversos públicos (Será testado).
+- Sólida experiência como Desenvolvedor Full Stack, com forte proficiência em Java, Angular 12 ou superior, TypeScript e Bootstrap.
+- Sólida experiência com desenvolvimento e integração de APIs REST ful.
+- Sólida proficiência em marcação web, incluindo HTML5 e CSS3.
+- Sólida compreensão de estruturas de teste, como Jasmine, Selenium e Karma.
+
+
+Desafio 02 - Cadarço, como amarrar:
+
+
+Pegue as pontas do cadarço
+Cruze os cadarços
+Forme uma orelha em cada um 
+De uma volta na outra orelha criando um buraco entre elas
+Passe a outra orelha pelo buraco
+Aperte e firme um nó
+
+
+Atividade 01 - Fazer pipoca:
+
+
+Ingredientes: 
+- Lista de Itens
+- Milho de pipoca
+- Óleo
+- Sal
+
+
+Quantidades:
+- Meia xícara de milho de pipoca
+- Duas colheres de sopa de óleo
+
+
+Utensílios: 
+Medidores: 
+- 2 xícaras
+- Colher de sopa
+- Uma colher de pau
+- Punhado
+
+
+Repositores: 
+- 1 Panela com tampa
+- 1 Pote 
+
+
+Passo a Passo - O que precisa ser executado:
+
+
+- Pegue a panela
+- Abra o pacote de milho de pipoca
+- Coloque o milho de pipoca até completar metade da xícara
+- Abra a garrafa de óleo e despeje até completar metade da xícara
+- Despeje a xícara de óleo na panela
+- Despeje a xícara de milho de pipoca na panela
+- Acenda o fogão
+- Coloque a panela na boca do fogão
+- Mexa com a colher de pau por alguns segundos
+- Tampe a panela
+-  Espere até ouvir os estouros dos milhos
+- Pegue um pano e use para segurar a panela
+- Balance com cuidado verticalmente a panela
+- Coloque novamente sob o fogão
+- 
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Atividade 02 – Trocar lâmpada queimada:
+
+
+Lampada de led 9 volts
+
+
+Verificar se há uma lâmpada reserva. 
+Caso sim: vá até o armário

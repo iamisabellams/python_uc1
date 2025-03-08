@@ -1,0 +1,176 @@
+﻿Pensamento Computacional - Atividade 03
+Aluna: Isabella Medeiros
+
+
+“Como podemos utilizar o conceito de pensamento computacional para responder às seguintes perguntas?”
+
+
+* O que você precisa fazer para chegar ao Senac saindo de sua casa?
+* Como você faz seu sanduíche preferido?
+* Como você faz um bolo?
+* Como se troca um pneu de carro?
+
+
+“O que você precisa fazer para chegar ao Senac saindo de sua casa?”
+
+
+1. Tomar banho
+2. Ao sair, trocar de roupa
+3. Arrumar a mochila
+4. Separar dinheiro para a passagem
+5. Sair de casa
+6. Andar até o ponto de ônibus
+7. Pegar o ônibus
+8. Esperar o ônibus chegar ao ponto desejado
+9. Descer do ônibus
+10. Entrar no Senac
+
+
+“Como você faz seu sanduíche preferido?”
+
+
+Utensílios
+* Uma faca para passar o requeijão.
+* Um prato para montar o sanduíche.
+Passo a Passo
+1. Pegue o pacote de pão 
+2. Retire o lacre do pacote
+3. Puxe levemente as laterais do saco para abri-lo
+4. Pegue duas fatias de pão e coloque-as no prato.
+5. Pegue o pote de requeijão 
+6. Gire a tampa até abrir 
+7. Se houver um lacre de alumínio por baixo da tampa, puxe até retirar
+8. Pegue uma a faca e coloque dentro do pote
+9. Com a faca retire um pouco de requeijão
+10. Passe o requeijão sobre a fatia de pão
+11. Retire a faca e a coloque sobre a mesa
+12. Pegue a embalagem da mussarela
+13. Abra a embalagem e pegue 2 fatias
+14. Coloque as fatias e coloque no pão com requeijão
+15. Pegue o pacote de peito de peru
+16. Abra a embalagem e pegue 2 fatias
+17. Coloque as fatias em cima das fatias de mussarela
+18. Pegue a outra fatia de pão e coloque por cima do peito de peru
+19. Feche as embalagens
+
+
+“Como você faz um bolo?”
+
+
+Utensílios
+* Tigela grande 
+* Tigela pequena 
+* Batedeira 
+* Forma para assar o bolo.
+* Colher de pau
+* Xícara e colher medidoras 
+* Palito de dente
+* Tesoura
+Ingredientes:
+* 2 xícaras de farinha de trigo
+* 1 xícara de açúcar
+* 1 xícara de chocolate em pó
+* 1 colher de sopa de fermento em pó
+* 3 ovos
+* 1 xícara de leite
+* Meia xícara de óleo
+* 1 colher de chá de essência de baunilha 
+Passo a passo:
+1. Pegue o pacote de farinha de trigo
+2. Abra o pacote usando uma tesoura para cortar um pedaço da lateral
+3. Meça 2 xícaras e coloque em uma tigela pequena
+4. Pegue o pacote de açúcar
+5. Abra o pacote usando uma tesoura 
+6. Meça 1 xícara e coloque na tigela grande
+7. Pegue o pote ou pacote de chocolate em pó
+8. Segure o pote e gire a tampa até abrir
+9. Meça 1 xícara e coloque com a farinha de trigo na tigela pequena
+10. Pegue a colher de pau
+11. Misture tudo com a colher 
+12. Pegue o pote de fermento
+13. Segure o pote e gire a tampa até abrir
+14. Meça 1 colher de sopa e reserve
+15. Pegue 3 ovos
+16. Bata levemente em uma superfície dura para quebrar a casca
+17. Abra a casca com cuidado
+18. Despeje o ovo na tigela grande (junto com o açúcar)
+19. Pegue a caixa de leite
+20. Meça 1 xícara e adicione na tigela grande
+21. Pegue a garrafa de óleo
+22. Gire a tampa de rosca até sair
+23. Meça meia xícara e despeje na tigela grande
+24. Pegue o frasco
+25. Abra a tampa girando até abrir
+26. Meça 1 colher de chá e despeje na tigela grande
+Passo a passo 02:
+1. Na tigela grande misture bem com a batedeira 
+2. Misture até formar um líquido homogêneo
+3. Pegue a tigela pequena 
+4. Coloque os ingredientes na tigela grande aos poucos
+5. Misture devagar até estar bem unida
+6. Adicione o fermento em pó por último e misture cuidadosamente
+7. Pegue a forma e coloque sobre uma superfície plana
+8. Pegue um pouco de manteiga ou óleo
+9. Pegue um guardanapo
+10. Passe no fundo e nas laterais da forma
+11. Pegue um pouco de farinha de trigo e polvilhe sobre a forma untada 
+12. Bata levemente nas laterais para espalhar e retire o excesso 
+13. Pegue a tigela grande com a massa
+14. Despeje a massa na forma devagar, distribuindo de maneira uniforme 
+Passo a passo 03:
+1. Pré-aqueça o forno a 180°C por cerca de 10 minutos.
+2. Coloque a forma no centro do forno.
+3. Asse por 35 a 40 minutos.
+4. Depois de 35 minutos
+5. Pegue um palito de dente 
+6. Espete o palito no bolo
+7. Se sair limpo, desligue o forno e retire a forma usando um pano
+8. Se o palito sair com massa, espere assar por mais 5 minutos
+9. Coloque em uma superfície plana e espere esfriar
+10. Desligue o forno
+11. Retire a forma e coloque sobre uma superfície plana
+12. Espere até que esteja frio.
+
+
+“Como se troca um pneu de carro?”
+
+
+Ferramentas:
+* Pegue as ferramentas necessárias
+*  Chave de roda
+* Macaco
+Passo a passo
+1. Estacione o carro em um local seguro
+2. Ative o freio de mão
+3. Saia do carro
+4. Coloque o triângulo de segurança
+5. Pegue o triângulo de segurança no porta-malas
+6. Ande pelo lado de dentro para evitar riscos
+7. Posicione o triângulo a 30 metros do carro
+8. Vá até o porta-malas e abra a tampa
+9. Pegue as ferramentas e o estepe
+10. Pegue as ferramentas necessárias
+11. Retire o pneu estepe
+12. Localize o pneu furado
+13. Afrouxe os parafusos do pneu
+14. Encontre o ponto de apoio do macaco
+15. Erga o carro com o macaco
+16. Gire a alavanca no sentido horário para levantar o carro
+17. Suba o carro até o pneu ficar suspenso no ar, sem tocar no chão
+18. Use a chave de roda para tirar os parafusos completamente
+19. Guarde os parafusos juntos para não perder
+20. Segure o pneu com as duas mãos pelas laterais
+21. Puxe devagar para soltá-lo
+22. Coloque o pneu no chão
+23. Pegue o pneu estepe e segure com ambas as mãos
+24. Encaixe os furos do pneu nos parafusos
+25. Pegue os parafusos soltos.
+26. Rosqueie cada um à mão
+27. Abaixe o carro com o macaco
+28. Quando o pneu tocar completamente no chão retire o macaco
+29. Aperte os parafusos totalmente
+30. Use a chave de roda para apertar os parafusos firmemente
+31. Pegue o pneu furado e coloque no porta-malas
+32. Guarde o macaco e a chave de roda
+33. Caminhe até o local onde colocou o triângulo
+34. Pegue-o com cuidado e guarde no porta-malas
