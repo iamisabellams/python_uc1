@@ -1,0 +1,11 @@
+    texto, invertido: caractere
+    i: inteiro
+inicio
+    escreva("Digite uma palavra ou frase: ")
+    leia(texto)
+    invertido = ""
+    para i de comprimento(texto) ate 1 passo -1 faca
+        invertido = invertido + caractere_na_posicao(texto, i)
+    fimpara
+    escreva("O texto invertido é: ", invertido)
+fim_algoritmo

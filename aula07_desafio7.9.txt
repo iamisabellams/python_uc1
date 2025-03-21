@@ -1,0 +1,22 @@
+    notas: vetor[1..5] de real
+    i: inteiro
+    menor, soma, media: real
+inicio
+    para i de 1 ate 5 faca
+        escreva("Digite a nota ", i, ": ")
+        leia(notas[i])
+    fimpara
+    menor = notas[1]
+    para i de 2 ate 5 faca
+        se notas[i] < menor entao
+            menor = notas[i]
+        fimse
+    fimpara
+    soma = 0
+    para i de 1 ate 5 faca
+        soma = soma + notas[i]
+    fimpara
+    soma = soma - menor
+    media = soma / 4
+    escreva("A média, excluindo a menor nota, é: ", media)
+fim_algoritmo
